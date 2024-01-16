@@ -1,5 +1,5 @@
 # StateDisparityComparisons
-A tool to compare state-level race-based disparities when calculated using theil's index and between group variance
+A tool to compare state-level race-based disparities when calculated using theil's index and between group variance. All data comes from County Health Rankings and Roadmaps: https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation
 
 Creates the following interactive: https://hannaheow.shinyapps.io/StateDisparityComparisons/
 
